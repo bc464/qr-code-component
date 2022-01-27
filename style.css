@@ -32,12 +32,12 @@ body {
 	font-weight: 700;
 	color: hsl(218, 44%, 22%);
 	margin-bottom: 1rem;
-	padding: 0 1rem;
+	
 }
 .main-text {
 	color: hsl(220, 15%, 55%);
 	margin-bottom: 3rem;
-	padding: 0 1rem;
+	
 }
 .attribution { 
 	font-size: 11px; text-align: center; 
@@ -84,4 +84,8 @@ body {
 	.container {
 		width: 90%;
 	}
+	.main-heading,
+	.main-text {
+		padding: 0 2rem;
+		
 }
